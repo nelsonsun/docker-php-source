@@ -1,0 +1,7 @@
+:8089 {
+    cgi /report /home/xzj/Documents/dev/docker/test.sh
+    log stdout
+    errors stdout
+    tls off
+}
+
